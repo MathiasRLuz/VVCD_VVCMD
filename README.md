@@ -3,7 +3,7 @@
 VVCD (Vehicle Voice Commands Dataset) and VVCMD (Vehicle Voice Commands Mixed Dataset) are publicly available datasets for Automatic Speech Recognition (ASR) in the Brazilian Portuguese language.
 These datasets were built for testing a Proof of Concept of controlling the vehicle's external lights just by using voice commands.  The project focused on vehicle dashboard control by voice commands for drivers with reduced mobility.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MVuHZvy7LNE?si=slSBjNVZ_DWYtoa-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/MVuHZvy7LNE/maxresdefault.jpg)](https://youtu.be/MVuHZvy7LNE)
 
 The chosen voice commands are presented below with their english version:
 | Brazilian Portuguese  | English | Vehicle Function |
