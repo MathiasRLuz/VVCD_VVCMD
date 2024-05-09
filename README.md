@@ -1,14 +1,19 @@
 # VVCD & VVCMD
 
 VVCD (Vehicle Voice Commands Dataset) and VVCMD (Vehicle Voice Commands Mixed Dataset) are publicly available datasets for Automatic Speech Recognition (ASR) in the Brazilian Portuguese language.
-These datasets were built for testing a Proof of Concept of controlling the vehicle's external lights just by using voice commands.  The project focused on vehicle dashboard control by voice commands for drivers with reduced mobility.
 
-[![Watch the video](https://img.youtube.com/vi/MVuHZvy7LNE/maxresdefault.jpg)](https://youtu.be/MVuHZvy7LNE)
+These datasets were created for developing and testing a Proof of Concept for controlling the vehicle's exterior lights using only voice commands. The project focused on controlling the vehicle's dashboard by voice commands for drivers with reduced mobility.
+
+The video below shows a test of the developed voice assistant.
+
+https://github.com/MathiasRLuz/VVCD_VVCMD/assets/68118121/1c22bbb1-6ccb-4bdb-b324-c8cfcd78927f
+
+You can see more content on: [Vehicle Voice Assistant](https://www.youtube.com/watch?v=pS0n0pADZiA&list=PLTt3HK7nvog8lBineijjfPZlCLMEnsL5y)
 
 The chosen voice commands are presented below with their english version:
 | Brazilian Portuguese  | English | Vehicle Function |
 | ------------- | ------------- | ------------- |
-|*Seta para direita*     | Right turn signal | Turns on/off the right turn signal      |
+|*Seta para direita*     | Right turn signal |  Turns on/off the right turn signal     |
 |*Seta para esquerda*    | Left turn signal  |  Turns on/off the left turn signal      |
 |*Luz baixa*             | Headlights        |  Turns on/off the headlights            |
 |*Pisca alerta*          | Hazard warning    |  Turns on/off the hazard warning lights |
